@@ -1,0 +1,15 @@
+:root {
+    --grey: #383635;
+    --pale-pink: #fff7fc;
+    --fucsia: #753d56;
+    --brown: #824941;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
